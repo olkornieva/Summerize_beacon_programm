@@ -1,0 +1,6 @@
+D:\Programming\summarize-beacon\summarize-beacon\bin\Debug\summarize-beacon.exe.config
+D:\Programming\summarize-beacon\summarize-beacon\bin\Debug\summarize-beacon.exe
+D:\Programming\summarize-beacon\summarize-beacon\bin\Debug\summarize-beacon.pdb
+D:\Programming\summarize-beacon\summarize-beacon\obj\Debug\summarize-beacon.csprojResolveAssemblyReference.cache
+D:\Programming\summarize-beacon\summarize-beacon\obj\Debug\summarize-beacon.exe
+D:\Programming\summarize-beacon\summarize-beacon\obj\Debug\summarize-beacon.pdb
